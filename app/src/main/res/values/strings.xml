@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prueba</string>
+
+    <string-array name="productos">
+        <item>30001 - Credito AAAAA </item>
+        <item>30002 - Credito BBBBB </item>
+        <item>30003 - Credito CCCCC </item>
+        <item>30004 - Credito DDDDD </item>
+        <item>30005 - Credito EEEEE </item>
+        <item>30006 - Credito FFFFF </item>
+        <item>30007 - Credito GGGGG </item>
+        <item>30008 - Credito HHHHH </item>
+    </string-array>
+
+</resources>
